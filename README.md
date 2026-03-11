@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# AI Chat Project
 
-# Run and deploy your AI Studio app
+This project is created using Google AI Studio and Gemini API.
 
-This contains everything you need to run your app locally.
+## Features
+- AI Chat system
+- User friendly interface
+- Fast response using Gemini
 
-View your app in AI Studio: https://ai.studio/apps/1ff22f17-5b6c-469f-891a-75d4d5cc8253
+## How to Run
+1. Clone this repository
+2. Install dependencies
+3. Run the project
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Author
+Rohit
+Information Technology Department
