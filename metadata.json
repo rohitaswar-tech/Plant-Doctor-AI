@@ -1,0 +1,7 @@
+{
+  "name": "Plant Doctor AI",
+  "description": "Professional plant disease detection and treatment recommendation system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
